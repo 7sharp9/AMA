@@ -6,6 +6,12 @@ I get a lot of questions by email. This way anyone can read the answer!
 
 Anything means *anything*. Personal questions. Money. Work. Life. Code. Whatever.
 
+### Who am I?
+
+I'm a freelance software developer, hired gun etc, contributor to OSS projects, occasional speaker, sometimes hermit. 
+
+You can reach me on Twitter: [@7sharp9_exhumed](https://twitter.com/7sharp9_exhumed), or my [blog](http://7sharpnine.com) when I remember to renew my domain.
+
 ---
 
 ### Guidelines
