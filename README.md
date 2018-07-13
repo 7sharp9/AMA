@@ -12,7 +12,7 @@ I'm a hired gun / freelance software developer specialising in pragmatic funtion
 
 Over the years I've done a lot of work on F# OSS projects like the F# addin for monodevelop/Xamarin Studio/VS4 Mac, created the FSharp.Compiler.Service to help tooling services in the early days when it was even more fragmented, general F# hacking and exploring the boundries. 
 
-You can reach me on Twitter: [@7sharp9_exhumed](https://twitter.com/7sharp9_exhumed), or my [blog](http://7sharpnine.com) when I remember to renew my domain.
+You can reach me on Twitter: [@7sharp9_exhumed](https://twitter.com/7sharp9_exhumed), or my [blog](http://7sharpnine.com) when I remember to renew my domain! :-)
 
 ---
 
